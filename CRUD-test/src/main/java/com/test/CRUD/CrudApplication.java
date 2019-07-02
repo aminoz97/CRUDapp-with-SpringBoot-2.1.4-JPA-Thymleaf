@@ -26,7 +26,7 @@ public class CrudApplication implements CommandLineRunner {
 		/*Product p=new Product("Iphone", "Apple", "madeinKorea", 2.0);
 		prodRep.save(p);
 		Product p1=new Product("montre", "rolex", "madeinSwitz", 50.0);
-		prodRep.save(p1);*/
+		prodRep.save(p1);*/ // Only when you want test --> test succeed
 		
 	}
 
